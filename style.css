@@ -273,7 +273,7 @@ text-decoration: none;
           height: 220px;
           background-image: linear-gradient(
             rgba(20,20,20, .5), 
-            rgba(20,20,20, .5)),url(/images/foodbg.jpg);
+            rgba(20,20,20, .5)),url(./images/foodbg.jpg);
           background-position: center;
           background-size: cover;
           background-repeat: no-repeat;
@@ -371,7 +371,7 @@ background-color: rgb(250, 250, 250);
 height: 430px;
 background-image: linear-gradient(
   rgba(20,20,20, .5), 
-  rgba(20,20,20, .5)),url(/images/foodbg.jpg);
+  rgba(20,20,20, .5)),url(./images/foodbg.jpg);
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
