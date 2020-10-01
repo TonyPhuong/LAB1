@@ -469,7 +469,7 @@ color: white;
             background: linear-gradient(
                            rgba(20,20,20, .5), 
                            rgba(20,20,20, .5)),
-                           url(/images/peppersteak.jpg);
+                           url(./images/peppersteak.jpg);
           
             background-repeat: no-repeat;
             background-position: center;
@@ -490,7 +490,7 @@ color: white;
             height: 350px;
             background-image: linear-gradient(
               rgba(20,20,20, .5), 
-              rgba(20,20,20, .5)),url(/images/foodbg.jpg);
+              rgba(20,20,20, .5)),url(./images/foodbg.jpg);
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -588,7 +588,7 @@ color: white;
   width: 420px;
   background-image: linear-gradient(
     rgba(20,20,20, .5), 
-    rgba(20,20,20, .5)),url(/images/foodbg.jpg);
+    rgba(20,20,20, .5)),url(./images/foodbg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
