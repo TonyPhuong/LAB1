@@ -1,5 +1,5 @@
 html {
-  background-image: url(../images/pagebg.jpg);
+  background-image: url(./images/pagebg.jpg);
   background-repeat: no-repeat;
 }
 .grid-container {
@@ -25,7 +25,7 @@ html {
   background: linear-gradient(
                  rgba(20,20,20, .5), 
                  rgba(20,20,20, .5)),
-                 url(../images/peppersteak.jpg);
+                 url(./images/peppersteak.jpg);
 
   background-repeat: no-repeat;
   background-position: center;
@@ -140,7 +140,7 @@ html {
   height: 420px;
   background-image: linear-gradient(
     rgba(20,20,20, .5), 
-    rgba(20,20,20, .5)),url(../images/foodbg.jpg);
+    rgba(20,20,20, .5)),url(./images/foodbg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -180,7 +180,7 @@ text-decoration: none;
   height: 230px;
   background-image: linear-gradient(
     rgba(20,20,20, .5), 
-    rgba(20,20,20, .5)),url(../images/foodbg.jpg);
+    rgba(20,20,20, .5)),url(./images/foodbg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
