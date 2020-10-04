@@ -27,9 +27,8 @@ Menu
     *Prep time
     *Total time
   
-  _Food background
+  _Food background for preparation section
     
-    *Preparation
     *Ingredients
     *Direction
     
