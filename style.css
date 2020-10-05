@@ -1,3 +1,8 @@
+:root {
+  background-image: url(./images/pagebg.jpg);8;
+}
+
+
 html {
   background-image: url(./images/pagebg.jpg);
   background-repeat: no-repeat;
